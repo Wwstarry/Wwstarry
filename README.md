@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm panruwei</h1>
 <h3 align="center">A student from ChongQing University</h3>
 
-<h3 align="left">Connect with me:</h3>- 📫 How to reach me **panruwei666@gmail.com**
+<h3 align="left">Connect with me:</h3>- 📫 How to reach me panruwei666@gmail.com
 <p align="left">
 </p>
 
