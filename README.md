@@ -14,7 +14,3 @@
 
 [![GitHub Streak](https://stats.justsong.cn/api/github?username=Wwstarry)](https://git.io/streak-stats)
 
-<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=Wwstarry&theme=dark"> </div>
-
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=开心的话，日子就不算虚度！&center=true&size=40"> </h1>
-
