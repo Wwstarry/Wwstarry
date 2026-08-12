@@ -58,7 +58,7 @@ My long-term goal is to contribute work that reshapes our understanding of how i
 
 The code and experimental artifacts for my research projects will be released after the corresponding papers are accepted.
 
-Some repositories may temporarily remain **private** while they are being actively developed, reorganized, or updated. If you need help reproducing our work, would like early access for academic purposes, or have questions about a project, please feel free to contact me.
+Some repositories may temporarily remain **private** while they are being actively developed, reorganized, or updated. (CodeCoR and MoT will be released on August 20.) If you need help reproducing our work, would like early access for academic purposes, or have questions about a project, please feel free to contact me.
 
 
 
